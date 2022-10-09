@@ -13,6 +13,3 @@ Projeto construído do evento Next Level Week da Rocketseat.
 -HTML 
 -CSS
 -Git e Github
-
-## 💚 Contato
-nandydudu477@gmail.com
